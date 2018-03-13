@@ -2,17 +2,37 @@
 SSD
 
 
-Class ID:  
+Class ID:  Ekans
 
 SRS ID: CST116SRS06  
 
 Unresolved Issues:  
 
-Notes:  
+Notes:	3/02 - Worked on code. Function still within main.cpp, need to create new .cpp and .h file for function and function declaration
+			 - Emailed lab partners, shared my sample code to get more help regarding my code.
 
-Partner Left:  
+		3/07 - Emailed lab partners in regards to missing lecture.
+		
+		3/08 - Emailed lab partners about my attendance for lab, no one else showed, received email from Partner Left and will not make it to lab.
+			 - Worked on code a bit, still need to figure out how to set up function.
+			 - Sent out Data to Partner Left, and Function and Header file to Partner Right
+		
+		3/10 - Received email from Partner Left; will work on code tonight.
 
-Partner Right:  
+		3/11 - Communicated with Partner Left and received function. 
+			 - My program and function with the new data produces the same results as Partner Left's results. 
+			 - Did not hear from Partner Right; decided to share my function with Partner Left.
+		
+		3/12 - Having trouble calling Partner Left's function into my program.
+			 - Partner Left's function is now properly working in my program.
+			 - Updated Partner Left with my results and suggested to do a few minor tweaks into their program. 
+			 - Got email from Partner Right and will not participate in this assignment. 
+			 - Pushing completed assignment onto Github
+			
+
+Partner Left:  Ferrothorn
+
+Partner Right:  Dropped out of assignment
 
 ---
 
